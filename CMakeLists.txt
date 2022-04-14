@@ -3,4 +3,4 @@ project(HackerRankLearn)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HackerRankLearn main.cpp HelloWorld.cpp BasicDataTypes/BasicDataTypes.cpp InputOutput.cpp InputOutput.h ConditionalStatement.cpp ConditionalStatement.h)
+add_executable(HackerRankLearn main.cpp HelloWorld.cpp BasicDataTypes/BasicDataTypes.cpp InputOutput.cpp InputOutput.h ConditionalStatement.cpp ConditionalStatement.h ForLoop.cpp ForLoop.h)

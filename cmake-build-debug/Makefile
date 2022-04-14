@@ -176,6 +176,33 @@ ConditionalStatement.cpp.s:
 	$(MAKE) -f CMakeFiles\HackerRankLearn.dir\build.make CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.s
 .PHONY : ConditionalStatement.cpp.s
 
+ForLoop.obj: ForLoop.cpp.obj
+
+.PHONY : ForLoop.obj
+
+# target to build an object file
+ForLoop.cpp.obj:
+	$(MAKE) -f CMakeFiles\HackerRankLearn.dir\build.make CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj
+.PHONY : ForLoop.cpp.obj
+
+ForLoop.i: ForLoop.cpp.i
+
+.PHONY : ForLoop.i
+
+# target to preprocess a source file
+ForLoop.cpp.i:
+	$(MAKE) -f CMakeFiles\HackerRankLearn.dir\build.make CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.i
+.PHONY : ForLoop.cpp.i
+
+ForLoop.s: ForLoop.cpp.s
+
+.PHONY : ForLoop.s
+
+# target to generate assembly for a file
+ForLoop.cpp.s:
+	$(MAKE) -f CMakeFiles\HackerRankLearn.dir\build.make CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.s
+.PHONY : ForLoop.cpp.s
+
 HelloWorld.obj: HelloWorld.cpp.obj
 
 .PHONY : HelloWorld.obj
@@ -272,6 +299,9 @@ help:
 	@echo ... ConditionalStatement.obj
 	@echo ... ConditionalStatement.i
 	@echo ... ConditionalStatement.s
+	@echo ... ForLoop.obj
+	@echo ... ForLoop.i
+	@echo ... ForLoop.s
 	@echo ... HelloWorld.obj
 	@echo ... HelloWorld.i
 	@echo ... HelloWorld.s

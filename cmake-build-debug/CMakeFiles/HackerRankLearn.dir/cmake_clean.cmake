@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj"
   "CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj"
+  "CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj"
   "CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj"
   "CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj"
   "CMakeFiles/HackerRankLearn.dir/main.cpp.obj"

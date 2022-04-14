@@ -89,6 +89,12 @@
 		<Unit filename="C:/Users/j/CLionProjects/HackerRankLearn/ConditionalStatement.h">
 			<Option target="HackerRankLearn"/>
 		</Unit>
+		<Unit filename="C:/Users/j/CLionProjects/HackerRankLearn/ForLoop.cpp">
+			<Option target="HackerRankLearn"/>
+		</Unit>
+		<Unit filename="C:/Users/j/CLionProjects/HackerRankLearn/ForLoop.h">
+			<Option target="HackerRankLearn"/>
+		</Unit>
 		<Unit filename="C:/Users/j/CLionProjects/HackerRankLearn/HelloWorld.cpp">
 			<Option target="HackerRankLearn"/>
 		</Unit>
