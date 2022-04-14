@@ -4,12 +4,12 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/j/CLionProjects/HackerRankLearn/BasicDataTypes/BasicDataTypes.cpp" "C:/Users/j/CLionProjects/HackerRankLearn/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj"
-  "C:/Users/j/CLionProjects/HackerRankLearn/ConditionalStatement.cpp" "C:/Users/j/CLionProjects/HackerRankLearn/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj"
-  "C:/Users/j/CLionProjects/HackerRankLearn/ForLoop.cpp" "C:/Users/j/CLionProjects/HackerRankLearn/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj"
-  "C:/Users/j/CLionProjects/HackerRankLearn/HelloWorld.cpp" "C:/Users/j/CLionProjects/HackerRankLearn/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj"
-  "C:/Users/j/CLionProjects/HackerRankLearn/InputOutput.cpp" "C:/Users/j/CLionProjects/HackerRankLearn/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj"
-  "C:/Users/j/CLionProjects/HackerRankLearn/main.cpp" "C:/Users/j/CLionProjects/HackerRankLearn/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/main.cpp.obj"
+  "C:/Users/julie/CLionProjects/HackerRankLearnTemp/BasicDataTypes/BasicDataTypes.cpp" "C:/Users/julie/CLionProjects/HackerRankLearnTemp/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj"
+  "C:/Users/julie/CLionProjects/HackerRankLearnTemp/ConditionalStatement.cpp" "C:/Users/julie/CLionProjects/HackerRankLearnTemp/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj"
+  "C:/Users/julie/CLionProjects/HackerRankLearnTemp/ForLoop.cpp" "C:/Users/julie/CLionProjects/HackerRankLearnTemp/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj"
+  "C:/Users/julie/CLionProjects/HackerRankLearnTemp/HelloWorld.cpp" "C:/Users/julie/CLionProjects/HackerRankLearnTemp/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj"
+  "C:/Users/julie/CLionProjects/HackerRankLearnTemp/InputOutput.cpp" "C:/Users/julie/CLionProjects/HackerRankLearnTemp/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj"
+  "C:/Users/julie/CLionProjects/HackerRankLearnTemp/main.cpp" "C:/Users/julie/CLionProjects/HackerRankLearnTemp/cmake-build-debug/CMakeFiles/HackerRankLearn.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

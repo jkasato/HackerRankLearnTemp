@@ -42,10 +42,10 @@ RM = "C:\Program Files\JetBrains\CLion 2019.3.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\j\CLionProjects\HackerRankLearn
+CMAKE_SOURCE_DIR = C:\Users\julie\CLionProjects\HackerRankLearnTemp
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/HackerRankLearn.dir/depend.make
@@ -58,81 +58,81 @@ include CMakeFiles/HackerRankLearn.dir/flags.make
 
 CMakeFiles/HackerRankLearn.dir/main.cpp.obj: CMakeFiles/HackerRankLearn.dir/flags.make
 CMakeFiles/HackerRankLearn.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HackerRankLearn.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\main.cpp.obj -c C:\Users\j\CLionProjects\HackerRankLearn\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HackerRankLearn.dir/main.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\main.cpp.obj -c C:\Users\julie\CLionProjects\HackerRankLearnTemp\main.cpp
 
 CMakeFiles/HackerRankLearn.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRankLearn.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\j\CLionProjects\HackerRankLearn\main.cpp > CMakeFiles\HackerRankLearn.dir\main.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\julie\CLionProjects\HackerRankLearnTemp\main.cpp > CMakeFiles\HackerRankLearn.dir\main.cpp.i
 
 CMakeFiles/HackerRankLearn.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRankLearn.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\j\CLionProjects\HackerRankLearn\main.cpp -o CMakeFiles\HackerRankLearn.dir\main.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\julie\CLionProjects\HackerRankLearnTemp\main.cpp -o CMakeFiles\HackerRankLearn.dir\main.cpp.s
 
 CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj: CMakeFiles/HackerRankLearn.dir/flags.make
 CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj: ../HelloWorld.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\HelloWorld.cpp.obj -c C:\Users\j\CLionProjects\HackerRankLearn\HelloWorld.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\HelloWorld.cpp.obj -c C:\Users\julie\CLionProjects\HackerRankLearnTemp\HelloWorld.cpp
 
 CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\j\CLionProjects\HackerRankLearn\HelloWorld.cpp > CMakeFiles\HackerRankLearn.dir\HelloWorld.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\julie\CLionProjects\HackerRankLearnTemp\HelloWorld.cpp > CMakeFiles\HackerRankLearn.dir\HelloWorld.cpp.i
 
 CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRankLearn.dir/HelloWorld.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\j\CLionProjects\HackerRankLearn\HelloWorld.cpp -o CMakeFiles\HackerRankLearn.dir\HelloWorld.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\julie\CLionProjects\HackerRankLearnTemp\HelloWorld.cpp -o CMakeFiles\HackerRankLearn.dir\HelloWorld.cpp.s
 
 CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj: CMakeFiles/HackerRankLearn.dir/flags.make
 CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj: ../BasicDataTypes/BasicDataTypes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\BasicDataTypes\BasicDataTypes.cpp.obj -c C:\Users\j\CLionProjects\HackerRankLearn\BasicDataTypes\BasicDataTypes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\BasicDataTypes\BasicDataTypes.cpp.obj -c C:\Users\julie\CLionProjects\HackerRankLearnTemp\BasicDataTypes\BasicDataTypes.cpp
 
 CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\j\CLionProjects\HackerRankLearn\BasicDataTypes\BasicDataTypes.cpp > CMakeFiles\HackerRankLearn.dir\BasicDataTypes\BasicDataTypes.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\julie\CLionProjects\HackerRankLearnTemp\BasicDataTypes\BasicDataTypes.cpp > CMakeFiles\HackerRankLearn.dir\BasicDataTypes\BasicDataTypes.cpp.i
 
 CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRankLearn.dir/BasicDataTypes/BasicDataTypes.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\j\CLionProjects\HackerRankLearn\BasicDataTypes\BasicDataTypes.cpp -o CMakeFiles\HackerRankLearn.dir\BasicDataTypes\BasicDataTypes.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\julie\CLionProjects\HackerRankLearnTemp\BasicDataTypes\BasicDataTypes.cpp -o CMakeFiles\HackerRankLearn.dir\BasicDataTypes\BasicDataTypes.cpp.s
 
 CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj: CMakeFiles/HackerRankLearn.dir/flags.make
 CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj: ../InputOutput.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\InputOutput.cpp.obj -c C:\Users\j\CLionProjects\HackerRankLearn\InputOutput.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\InputOutput.cpp.obj -c C:\Users\julie\CLionProjects\HackerRankLearnTemp\InputOutput.cpp
 
 CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\j\CLionProjects\HackerRankLearn\InputOutput.cpp > CMakeFiles\HackerRankLearn.dir\InputOutput.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\julie\CLionProjects\HackerRankLearnTemp\InputOutput.cpp > CMakeFiles\HackerRankLearn.dir\InputOutput.cpp.i
 
 CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRankLearn.dir/InputOutput.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\j\CLionProjects\HackerRankLearn\InputOutput.cpp -o CMakeFiles\HackerRankLearn.dir\InputOutput.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\julie\CLionProjects\HackerRankLearnTemp\InputOutput.cpp -o CMakeFiles\HackerRankLearn.dir\InputOutput.cpp.s
 
 CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj: CMakeFiles/HackerRankLearn.dir/flags.make
 CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj: ../ConditionalStatement.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\ConditionalStatement.cpp.obj -c C:\Users\j\CLionProjects\HackerRankLearn\ConditionalStatement.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\ConditionalStatement.cpp.obj -c C:\Users\julie\CLionProjects\HackerRankLearnTemp\ConditionalStatement.cpp
 
 CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\j\CLionProjects\HackerRankLearn\ConditionalStatement.cpp > CMakeFiles\HackerRankLearn.dir\ConditionalStatement.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\julie\CLionProjects\HackerRankLearnTemp\ConditionalStatement.cpp > CMakeFiles\HackerRankLearn.dir\ConditionalStatement.cpp.i
 
 CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRankLearn.dir/ConditionalStatement.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\j\CLionProjects\HackerRankLearn\ConditionalStatement.cpp -o CMakeFiles\HackerRankLearn.dir\ConditionalStatement.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\julie\CLionProjects\HackerRankLearnTemp\ConditionalStatement.cpp -o CMakeFiles\HackerRankLearn.dir\ConditionalStatement.cpp.s
 
 CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj: CMakeFiles/HackerRankLearn.dir/flags.make
 CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj: ../ForLoop.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\ForLoop.cpp.obj -c C:\Users\j\CLionProjects\HackerRankLearn\ForLoop.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\HackerRankLearn.dir\ForLoop.cpp.obj -c C:\Users\julie\CLionProjects\HackerRankLearnTemp\ForLoop.cpp
 
 CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\j\CLionProjects\HackerRankLearn\ForLoop.cpp > CMakeFiles\HackerRankLearn.dir\ForLoop.cpp.i
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\julie\CLionProjects\HackerRankLearnTemp\ForLoop.cpp > CMakeFiles\HackerRankLearn.dir\ForLoop.cpp.i
 
 CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HackerRankLearn.dir/ForLoop.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\j\CLionProjects\HackerRankLearn\ForLoop.cpp -o CMakeFiles\HackerRankLearn.dir\ForLoop.cpp.s
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\julie\CLionProjects\HackerRankLearnTemp\ForLoop.cpp -o CMakeFiles\HackerRankLearn.dir\ForLoop.cpp.s
 
 # Object files for target HackerRankLearn
 HackerRankLearn_OBJECTS = \
@@ -156,7 +156,7 @@ HackerRankLearn.exe: CMakeFiles/HackerRankLearn.dir/build.make
 HackerRankLearn.exe: CMakeFiles/HackerRankLearn.dir/linklibs.rsp
 HackerRankLearn.exe: CMakeFiles/HackerRankLearn.dir/objects1.rsp
 HackerRankLearn.exe: CMakeFiles/HackerRankLearn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable HackerRankLearn.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable HackerRankLearn.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\HackerRankLearn.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -169,6 +169,6 @@ CMakeFiles/HackerRankLearn.dir/clean:
 .PHONY : CMakeFiles/HackerRankLearn.dir/clean
 
 CMakeFiles/HackerRankLearn.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\j\CLionProjects\HackerRankLearn C:\Users\j\CLionProjects\HackerRankLearn C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug C:\Users\j\CLionProjects\HackerRankLearn\cmake-build-debug\CMakeFiles\HackerRankLearn.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\julie\CLionProjects\HackerRankLearnTemp C:\Users\julie\CLionProjects\HackerRankLearnTemp C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug C:\Users\julie\CLionProjects\HackerRankLearnTemp\cmake-build-debug\CMakeFiles\HackerRankLearn.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HackerRankLearn.dir/depend
 

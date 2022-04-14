@@ -1,3 +1,5 @@
+
+
 //
 // Created by j on 4/14/2022.
 //
@@ -8,29 +10,31 @@
 using namespace std;
 
 int main() {
-    int n;
-    // int a,b;
-    // cin>>a>>b;
-    // int tot=b-a;
+    int a,b;
+    // int n=a;
+    // cin>>n;
+    cin>>a>>b;
+    int tot=b-a;
     string arr[]={"zero","one","two","three","four","five","six","seven","eight","nine","even","odd"};
     /*if the number is between 1 and 9, print the number in English
     if n is greater than 9 and even, print even
     if n is greater than 9 and odd, print odd*/
 
-    // for(int i=0;i<tot;i++){
-    // if the number is between 1 and 9, print the number in English
-    if(n>=1 && n<=9){
-        cout<<arr[n]<<endl;
+    for(int i=0;i<=tot;i++){
+        // if the number is between 1 and 9, print the number in English
+        if(a>=1 && a<=9){
+            cout<<arr[a]<<endl;
+        }
+            // if n is greater than 9 and even, print even
+        else if(a>9 && a%2==0){
+            cout<<"even"<<endl;
+        }
+            // if n is greater than 9 and odd, print odd
+        else if(a>9 && a%2==1){
+            cout<<"odd"<<endl;
+        }
+        a++;
     }
-    // if n is greater than 9 and even, print even
-    // else if(n>9 && n%2){
-    //     cout<<"even"<<endl;
-    // }
-    // // if n is greater than 9 and odd, print odd
-    // else if(n>9 && n%3){
-    //     cout<<"odd"<<endl;
-    // }
-    // }
     // cout<<arr[n+1];
     return 0;
 }
