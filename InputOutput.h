@@ -1,0 +1,14 @@
+//
+// Created by j on 4/13/2022.
+//
+
+#ifndef HACKERRANKLEARN_INPUTOUTPUT_H
+#define HACKERRANKLEARN_INPUTOUTPUT_H
+
+
+class InputOutput {
+
+};
+
+
+#endif //HACKERRANKLEARN_INPUTOUTPUT_H

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/j/CLionProjects/HackerRankLearn/BasicDataTypes/BasicDataTypes.cpp
+iostream
+-
+cstdio
+-
+
+C:/Users/j/CLionProjects/HackerRankLearn/ConditionalStatement.h
+
+C:/Users/j/CLionProjects/HackerRankLearn/main.cpp
+iostream
+-
+ConditionalStatement.h
+C:/Users/j/CLionProjects/HackerRankLearn/ConditionalStatement.h
+

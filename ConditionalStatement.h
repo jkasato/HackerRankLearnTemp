@@ -1,0 +1,14 @@
+//
+// Created by j on 4/13/2022.
+//
+
+#ifndef HACKERRANKLEARN_CONDITIONALSTATEMENT_H
+#define HACKERRANKLEARN_CONDITIONALSTATEMENT_H
+
+
+class ConditionalStatement {
+
+};
+
+
+#endif //HACKERRANKLEARN_CONDITIONALSTATEMENT_H
